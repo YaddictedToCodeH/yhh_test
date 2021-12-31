@@ -7,9 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
-	<h1>hanhee form</h1>
-	
-	<h2>작업했어요,,</h2>
+	<h1>ddddd</h1>
 </body>
 </html>
