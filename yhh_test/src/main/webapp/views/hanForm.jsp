@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>yhForm완성</h1>
-	<h3>hi! i am hee!</h3>
+
+	<h1>hanhee form</h1>
 </body>
 </html>
