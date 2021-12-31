@@ -13,6 +13,6 @@
 	<a href="#">링크다!</a>
 	
 	
-	<h3>hi </h3>
+	<h3>hello </h3>
 </body>
 </html>
